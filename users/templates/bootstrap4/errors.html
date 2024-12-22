@@ -1,0 +1,6 @@
+{% if form.non_field_errors %}
+{% if form_error_title %}
+{{ form_error_title }}
+{% endif %}
+{{ form.non_field_errors|unordered_list }}
+{% endif %}
