@@ -47,8 +47,7 @@ Example how to mark a checkbox:-
 - [ ] I have made corresponding changes to the documentation.
 - [ ] My changes generate no new warnings.
 - [ ] I have added things that prove my fix is effective or that my feature works.
-- [ ] Any dependent changes have been merged and published in downstream modules.
+- [ ] Any dependent changes have been merged and published in downstream modules
 
 
- 
  
